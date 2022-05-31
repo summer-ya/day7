@@ -6,7 +6,7 @@ public class VariablesQuiz {
 		
 		int age = 99;
 		
-		String gender = "³²";
+		char gender = '³²';
 				
 		double height = 222.66;
 		
