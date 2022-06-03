@@ -42,6 +42,14 @@ public class Binary_04 {
 //		System.out.println( true && true )); //왼쪽항 <= 연산
 //		System.out.println( true ); // && 연산
 		
+		//---------------------------------------
+		System.out.println("------------------------");
+		System.out.println( !((num >= 1) && (num <=100)) );
+//		System.out.println( !(num >= 1) !&& !(num <=100) );
+		System.out.println( num < 1 || num > 100 );
+		
+		// ** !(논리부정) 연산자의 적용
+		// 관계연산자는 반대 조건으로 치환된다
 		
 		
 	}
