@@ -16,7 +16,7 @@ public class IfQuiz_02 {
 			System.out.println("3의 배수입니다");
 		}
 		
-		// if(num53 == 0 && num!= 0 ) { //3의 배수
+		// if(num%3 == 0 && num!= 0 ) { //3의 배수
 		//System.out.println("num["+num+"]은/는 3의 배수이다");
 		//}
 		// if (num%3 !=0 || num==0 {// 3의 배수가 아님

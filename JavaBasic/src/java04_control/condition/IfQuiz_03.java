@@ -26,5 +26,5 @@ public class IfQuiz_03 {
 			System.out.println("두 숫자가 " + num1 +"(으)로 같습니다");
 		}
 	}
-
 }
+
