@@ -22,6 +22,14 @@ public class Scanner_05 {
 		//str문자열의 0번째 인덱스 값을 char형 변수alpha에 저장한다
 		char alpha = str.charAt(0);
 		System.out.println("[TEST] alpha : " + alpha);
+		
+		//--------------------------------------------------------------
+		System.out.println("-------------------");
+		
+		System.out.print("성별을 입력하세요 : ");
+		char gender = sc.nextLine().charAt(0);
+		
+		System.out.println("입력한 성별 : " + gender);
 	}
 
 }
