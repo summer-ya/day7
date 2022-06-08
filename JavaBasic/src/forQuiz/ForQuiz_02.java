@@ -11,7 +11,7 @@ public class ForQuiz_02 {
 		
 		for(int i = 1; i>0; i++) {
 			if(num%i == 0) {
-				System.out.print(i);
+				System.out.print(i + " ");
 			}
 		}
 	}
