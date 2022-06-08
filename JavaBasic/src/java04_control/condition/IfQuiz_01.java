@@ -18,7 +18,6 @@ public class IfQuiz_01{
 		if (input == 0) {
 			System.out.println("0ют╢о╢ы");
 		}
-		
 	}
 }
 
